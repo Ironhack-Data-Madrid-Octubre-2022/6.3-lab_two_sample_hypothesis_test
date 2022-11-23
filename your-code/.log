@@ -1,0 +1,64 @@
+2022-11-23 13:14:50,953 [1688] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-23 13:14:50,954 [1688] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-23 13:14:50,954 [1688] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-23 13:14:50,955 [1688] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-23 13:14:50,956 [1688] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-23 13:14:50,956 [1688] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-23 13:14:51,753 [1688] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-23 13:14:51,757 [1688] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-23 13:14:51,757 [1688] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-23 13:14:51,758 [1688] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-23 13:14:51,759 [1688] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-23 13:14:51,759 [1688] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-23 13:34:36,063 [1688] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-23 13:34:36,064 [1688] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-23 13:34:36,064 [1688] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-23 13:34:36,066 [1688] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-23 13:34:36,067 [1688] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-23 13:34:36,067 [1688] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-23 13:35:37,068 [1688] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-23 13:35:37,068 [1688] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-23 13:35:37,069 [1688] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-23 13:35:37,070 [1688] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-23 13:35:37,070 [1688] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-23 13:35:37,071 [1688] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-23 14:04:04,285 [1688] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-23 14:04:04,285 [1688] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-23 14:04:04,285 [1688] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-23 14:04:04,287 [1688] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-23 14:04:04,287 [1688] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-23 14:04:04,287 [1688] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-23 14:04:27,255 [1688] INFO     numexpr.utils:159: [JupyterRequire] NumExpr defaulting to 8 threads.
+2022-11-23 14:39:09,110 [1688] WARNING  py.warnings:109: [JupyterRequire] C:\Users\Víctor\AppData\Local\Temp\ipykernel_1688\4103424143.py:4: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  w.mean()
+
+2022-11-23 14:39:33,323 [1688] WARNING  py.warnings:109: [JupyterRequire] C:\Users\Víctor\AppData\Local\Temp\ipykernel_1688\1718414803.py:4: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  w.mean(), nw.mean()
+
+2022-11-23 14:41:26,256 [1688] WARNING  py.warnings:109: [JupyterRequire] C:\Users\Víctor\AppData\Local\Temp\ipykernel_1688\1536280333.py:4: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  w.mean(), nw.mean(), w.std(), nw.std()
+
+2022-11-23 14:41:26,272 [1688] WARNING  py.warnings:109: [JupyterRequire] C:\Users\Víctor\AppData\Local\Temp\ipykernel_1688\1536280333.py:4: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  w.mean(), nw.mean(), w.std(), nw.std()
+
+2022-11-23 14:41:26,280 [1688] WARNING  py.warnings:109: [JupyterRequire] C:\Users\Víctor\AppData\Local\Temp\ipykernel_1688\1536280333.py:4: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  w.mean(), nw.mean(), w.std(), nw.std()
+
+2022-11-23 15:08:31,054 [1688] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-23 15:08:31,054 [1688] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-23 15:08:31,054 [1688] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-23 15:08:31,056 [1688] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-23 15:08:31,056 [1688] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-23 15:08:31,057 [1688] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-23 15:46:57,858 [1688] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-23 15:46:57,858 [1688] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-23 15:46:57,858 [1688] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-23 15:46:57,861 [1688] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-23 15:46:57,862 [1688] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-23 15:46:57,862 [1688] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-23 15:49:27,091 [1688] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-23 15:49:27,091 [1688] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-23 15:49:27,091 [1688] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-23 15:49:27,093 [1688] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-23 15:49:27,093 [1688] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-23 15:49:27,093 [1688] DEBUG    root:97: [JupyterRequire] Registering comm targets.
