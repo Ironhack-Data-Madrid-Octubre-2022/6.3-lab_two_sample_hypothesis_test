@@ -1,0 +1,128 @@
+2022-11-23 14:07:18,407 [8094] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-23 14:07:18,408 [8094] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-23 14:07:18,408 [8094] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-23 14:07:18,411 [8094] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-23 14:07:18,412 [8094] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-23 14:07:18,412 [8094] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-23 14:07:18,931 [8094] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-23 14:07:18,931 [8094] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-23 14:07:18,931 [8094] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-23 14:07:18,934 [8094] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-23 14:07:18,934 [8094] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-23 14:07:18,935 [8094] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-23 14:07:34,197 [8094] INFO     numexpr.utils:159: [JupyterRequire] NumExpr defaulting to 4 threads.
+2022-11-23 14:11:11,705 [8094] WARNING  py.warnings:109: [JupyterRequire] /Users/rociomoreno/opt/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2022-11-23 14:17:31,226 [8094] WARNING  py.warnings:109: [JupyterRequire] /Users/rociomoreno/opt/anaconda3/lib/python3.9/site-packages/numpy/core/fromnumeric.py:3715: RuntimeWarning: Degrees of freedom <= 0 for slice
+  return _methods._var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+
+2022-11-23 14:17:31,237 [8094] WARNING  py.warnings:109: [JupyterRequire] /Users/rociomoreno/opt/anaconda3/lib/python3.9/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+
+2022-11-23 14:23:18,176 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/279965479.py:2: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  pokemon[pokemon['Type 1'] == 'Water'].mean()
+
+2022-11-23 14:24:23,244 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/3258053686.py:2: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  mean_w = pokemon[pokemon['Type 1'] == 'Water'].mean()
+
+2022-11-23 14:24:23,265 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/3258053686.py:3: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  std_w = pokemon[pokemon['Type 1'] == 'Water'].std()
+
+2022-11-23 14:24:46,903 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/2099898573.py:2: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  mean_w = pokemon[pokemon['Type 1'] == 'Water'].mean()
+
+2022-11-23 14:24:46,927 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/2099898573.py:3: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  std_w = pokemon[pokemon['Type 1'] == 'Water'].std()
+
+2022-11-23 14:24:54,663 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/635381836.py:2: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  mean_w = pokemon[pokemon['Type 1'] == 'Water'].mean()
+
+2022-11-23 14:24:54,703 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/635381836.py:3: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  std_w = pokemon[pokemon['Type 1'] == 'Water'].std()
+
+2022-11-23 14:24:58,710 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/4263627572.py:2: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  mean_w = pokemon[pokemon['Type 1'] == 'Water'].mean()
+
+2022-11-23 14:24:58,737 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/4263627572.py:3: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  std_w = pokemon[pokemon['Type 1'] == 'Water'].std()
+
+2022-11-23 14:25:00,863 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/1448704849.py:2: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  mean_w = pokemon[pokemon['Type 1'] == 'Water'].mean()
+
+2022-11-23 14:25:00,889 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/1448704849.py:3: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  std_w = pokemon[pokemon['Type 1'] == 'Water'].std()
+
+2022-11-23 14:25:12,735 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/3258053686.py:2: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  mean_w = pokemon[pokemon['Type 1'] == 'Water'].mean()
+
+2022-11-23 14:25:12,766 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/3258053686.py:3: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  std_w = pokemon[pokemon['Type 1'] == 'Water'].std()
+
+2022-11-23 14:27:03,852 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/2444604691.py:2: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  pokemon[pokemon['Type 1'] == 'Water'].mean()
+
+2022-11-23 14:27:03,879 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/2444604691.py:3: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  pokemon[pokemon['Type 1'] == 'Water'].std()
+
+2022-11-23 14:27:12,997 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/3063770725.py:2: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  pokemon[pokemon['Type 1'] == 'Water'].mean()
+
+2022-11-23 14:27:13,028 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/3063770725.py:4: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  pokemon[pokemon['Type 1'] == 'Water'].std()
+
+2022-11-23 14:27:15,848 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/3734904445.py:2: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  nonwater.mean()
+
+2022-11-23 14:27:15,872 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/3734904445.py:3: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  nonwater.std()
+
+2022-11-23 14:27:31,417 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/279965479.py:2: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  pokemon[pokemon['Type 1'] == 'Water'].mean()
+
+2022-11-23 14:27:33,324 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/119418958.py:1: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  pokemon[pokemon['Type 1'] == 'Water'].std()
+
+2022-11-23 14:27:38,136 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/538386405.py:2: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  nonwater.mean()
+
+2022-11-23 14:27:41,570 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/1192787696.py:1: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  nonwater.std()
+
+2022-11-23 14:32:50,197 [8094] WARNING  py.warnings:109: [JupyterRequire] /var/folders/fg/hm_rz3k53fv5qf5dywc0bfwr0000gn/T/ipykernel_8094/538386405.py:2: FutureWarning: Dropping of nuisance columns in DataFrame reductions (with 'numeric_only=None') is deprecated; in a future version this will raise TypeError.  Select only valid columns before calling the reduction.
+  nonwater.mean()
+
+2022-11-23 15:03:17,743 [8191] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-23 15:03:17,743 [8191] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-23 15:03:17,743 [8191] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-23 15:03:17,746 [8191] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-23 15:03:17,746 [8191] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-23 15:03:17,747 [8191] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-23 15:03:18,543 [8191] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-23 15:03:18,544 [8191] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-23 15:03:18,544 [8191] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-23 15:03:18,549 [8191] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-23 15:03:18,550 [8191] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-23 15:03:18,552 [8191] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-23 15:03:19,655 [8191] INFO     numexpr.utils:159: [JupyterRequire] NumExpr defaulting to 4 threads.
+2022-11-23 15:47:31,677 [8191] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-23 15:47:31,678 [8191] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-23 15:47:31,678 [8191] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-23 15:47:31,681 [8191] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-23 15:47:31,682 [8191] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-23 15:47:31,683 [8191] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-23 16:05:36,830 [8191] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-23 16:05:36,830 [8191] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-23 16:05:36,830 [8191] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-23 16:05:36,834 [8191] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-23 16:05:36,835 [8191] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-23 16:05:36,835 [8191] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-23 16:09:32,677 [8191] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-23 16:09:32,677 [8191] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-23 16:09:32,677 [8191] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-23 16:09:32,681 [8191] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-23 16:09:32,681 [8191] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-23 16:09:32,682 [8191] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-23 16:33:25,828 [8191] WARNING  py.warnings:109: [JupyterRequire] /Users/rociomoreno/opt/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
