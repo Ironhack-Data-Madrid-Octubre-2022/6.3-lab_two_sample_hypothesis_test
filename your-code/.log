@@ -1,0 +1,37 @@
+2022-11-23 14:39:35,414 [15808] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-23 14:39:35,414 [15808] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-23 14:39:35,415 [15808] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-23 14:39:35,420 [15808] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-23 14:39:35,421 [15808] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-23 14:39:35,422 [15808] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-23 14:39:36,254 [15808] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-23 14:39:36,255 [15808] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-23 14:39:36,256 [15808] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-23 14:39:36,266 [15808] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-23 14:39:36,269 [15808] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-23 14:39:36,270 [15808] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-23 14:40:03,911 [15808] INFO     numexpr.utils:159: [JupyterRequire] NumExpr defaulting to 8 threads.
+2022-11-23 15:27:47,298 [15808] WARNING  py.warnings:109: [JupyterRequire] C:\Users\silsi\AppData\Local\Temp\ipykernel_15808\958654157.py:1: FutureWarning: ['Name', 'Type2'] did not aggregate successfully. If any error is raised this will raise in a future version of pandas. Drop these columns/ops to avoid this warning.
+  pokemon.groupby('Type1').agg(['mean', 'std'])
+
+2022-11-23 16:04:15,207 [15808] WARNING  py.warnings:109: [JupyterRequire] C:\Users\silsi\AppData\Local\Temp\ipykernel_15808\1876656012.py:1: FutureWarning: The default value of regex will change from True to False in a future version. In addition, single character regular expressions will *not* be treated as literal strings when regex=True.
+  pokemon.columns= pokemon.columns.str.replace('.', '_')
+
+2022-11-23 16:04:18,478 [15808] WARNING  py.warnings:109: [JupyterRequire] C:\Users\silsi\AppData\Local\Temp\ipykernel_15808\1876656012.py:1: FutureWarning: The default value of regex will change from True to False in a future version. In addition, single character regular expressions will *not* be treated as literal strings when regex=True.
+  pokemon.columns= pokemon.columns.str.replace('.', '_')
+
+2022-11-23 16:04:24,613 [15808] WARNING  py.warnings:109: [JupyterRequire] C:\Users\silsi\AppData\Local\Temp\ipykernel_15808\2448263313.py:1: FutureWarning: The default value of regex will change from True to False in a future version. In addition, single character regular expressions will *not* be treated as literal strings when regex=True.
+  pokemon.columns= pokemon.columns.str.replace('.', '_')
+
+2022-11-23 18:29:53,862 [15808] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-23 18:29:53,862 [15808] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-23 18:29:53,862 [15808] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-23 18:29:53,866 [15808] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-23 18:29:53,867 [15808] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-23 18:29:53,868 [15808] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-24 09:10:46,762 [15808] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-24 09:10:46,762 [15808] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-24 09:10:46,763 [15808] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-24 09:10:46,767 [15808] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-24 09:10:46,768 [15808] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-24 09:10:46,769 [15808] DEBUG    root:97: [JupyterRequire] Registering comm targets.
